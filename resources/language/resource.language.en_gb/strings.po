@@ -18,24 +18,24 @@ msgstr ""
 
 msgctxt "#32011"
 msgid "Pick a color..."
-msgstr ""
+msgstr "בחירת צבע.."
 
 msgctxt "#32012"
 msgid "Color value:"
-msgstr ""
+msgstr "ערך צבע:"
 
 msgctxt "#32013"
 msgid "None"
-msgstr ""
+msgstr "אף לא אחד"
 
 msgctxt "#32049"
 msgid "Opacity"
-msgstr ""
+msgstr "שקיפות"
 
 msgctxt "#32050"
 msgid "Custom color"
-msgstr ""
+msgstr "צבע מותאם אישית"
 
 msgctxt "#32141"
 msgid "Color Palette"
-msgstr ""
+msgstr "פלטת צבעים"
